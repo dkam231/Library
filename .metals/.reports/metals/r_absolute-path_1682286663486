@@ -1,0 +1,4 @@
+Uri: jdt://contents/java.base/java.lang/Object.class?%3Dsp-23-final-project-dkam231_f48f26ae%2F%5C%2FUsers%5C%2Fdkamboj6%5C%2FLibrary%5C%2FJava%5C%2FJavaVirtualMachines%5C%2Fopenjdk-19.0.2%5C%2FContents%5C%2FHome%5C%2Flib%5C%2Fjrt-fs.jar%60java.base%3D%2Fjavadoc_location%3D%2Fhttps%3A%5C%2F%5C%2Fdocs.oracle.com%5C%2Fen%5C%2Fjava%5C%2Fjavase%5C%2F19%5C%2Fdocs%5C%2Fapi%5C%2F%3D%2F%3Cjava.lang%28Object.class
+
+Error message: Provider "jdt" not installed
+Error: java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed

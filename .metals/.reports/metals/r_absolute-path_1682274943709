@@ -1,0 +1,4 @@
+Uri: jdt://contents/javafx.graphics.jar/com.sun.javafx.application/LauncherImpl.class?%3Dsp-23-final-project-dkam231_f48f26ae%2F%5C%2FUsers%5C%2Fdkamboj6%5C%2FDownloads%5C%2Fjavafx-sdk-20%5C%2Flib%5C%2Fjavafx.graphics.jar%3Ccom.sun.javafx.application%28LauncherImpl.class
+
+Error message: Provider "jdt" not installed
+Error: java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed

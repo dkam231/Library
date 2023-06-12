@@ -1,0 +1,12 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/dkamboj6/Downloads/scenebuilder-8.5.0-all.jar",
+        "/Users/dkamboj6/Downloads/javafx-sdk-20/**/*.jar",
+        "/Users/dkamboj6/Downloads/json-simple-1.1.1.jar",
+        "/Users/dkamboj6/Downloads/mongoDriver.jar"
+    ]
+}

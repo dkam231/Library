@@ -1,0 +1,4 @@
+Uri: vscode-local-history:<WORKSPACE>/src/finalProj/DataFileManager.java?%7B%22location%22%3A%22file%3A%2F%2F%2FUsers%2Fdkamboj6%2FLibrary%2FApplication%20Support%2FCode%2FUser%2FHistory%2F-dc2e0c4%2FsTBo.java%22%2C%22associatedResource%22%3A%22file%3A%2F%2F%2FUsers%2Fdkamboj6%2FRecitation%2Fsp-23-final-project-dkam231%2Fsrc%2FfinalProj%2FDataFileManager.java%22%7D
+
+Error message: Provider "vscode-local-history" not installed
+Error: java.nio.file.FileSystemNotFoundException: Provider "vscode-local-history" not installed
