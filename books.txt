@@ -1,0 +1,89 @@
+jlkkjljl,jlkkjljl,8888954,false,null,[null],0
+The Catcher in the Rye,J.D. Salinger,9780316769174,true,username,[janedoe|janedoe],14
+To Kill a Mockingbird,Harper Lee,9780446310789,false,null,[null],0
+1984,George Orwell,9780451524935,false,null,[null],0
+The Great Gatsby,F. Scott Fitzgerald,9780743273565,true,username,[null],14
+One Hundred Years of Solitude,Gabriel Garcia Marquez,9780060883287,false,null,[null],0
+Pride and Prejudice,Jane Austen,9780486284736,true,username,[null],14
+The Hobbit,J.R.R. Tolkien,9780547928227,true,janedoe,[null],14
+The Lord of the Rings,J.R.R. Tolkien,9780618640157,true,meera,[null],14
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,9780345391803,false,null,[null],0
+Brave New World,Aldous Huxley,9780060850524,false,null,[null],0
+Animal Farm,George Orwell,9780451526342,false,null,[null],0
+Fahrenheit 451,Ray Bradbury,9781451673319,false,null,[null],0
+Lord of the Flies,William Golding,9780399501487,false,null,[null],0
+The Diary of a Young Girl,Anne Frank,9780553577129,true,meera,[null],14
+The Brothers Karamazov,Fyodor Dostoevsky,9780374528379,false,null,[null],0
+Crime and Punishment,Fyodor Dostoevsky,9780140449136,false,null,[null],0
+Moby-Dick,Herman Melville,9780142437247,false,null,[null],0
+Don Quixote,Miguel de Cervantes,9780060934347,false,null,[null],0
+The Picture of Dorian Gray,Oscar Wilde,9780486278070,false,null,[null],0
+Jane Eyre,Charlotte Bronte,9780486478031,false,null,[null],0
+Great Expectations,Charles Dickens,9780141439563,false,null,[null],0
+Wuthering Heights,Emily Bronte,9780141439556,true,meera,[null],14
+The Canterbury Tales,Geoffrey Chaucer,9780393925876,false,null,[null],0
+The Divine Comedy,Dante Alighieri,9780140447965,false,null,[null],0
+The Iliad,Homer,9780140447941,false,null,[null],0
+The Odyssey,Homer,9780140449112,false,null,[null],0
+The Aeneid,Virgil,9780143106296,false,null,[null],0
+The Inferno,Dante Alighieri,9780553213393,false,null,[null],0
+The Adventures of Huckleberry Finn,Mark Twain,9780143107323,false,null,[null],0
+The Adventures of Tom Sawyer,Mark Twain,9780141321132,false,null,[null],0
+Alice's Adventures in Wonderland,Lewis Carroll,9780141439761,false,null,[null],0
+Through the Looking-Glass,Lewis Carroll,9780141441283,false,null,[null],0
+Treasure Island,Robert Louis Stevenson,9780140437680,false,null,[null],0
+Robinson Crusoe,Daniel Defoe,9780140439356,false,null,[null],0
+Gulliver's Travels,Jonathan Swift,9780141439495,false,null,[null],0
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,9780486266886,false,null,[null],0
+Heart of Darkness,Joseph Conrad,9780486264646,false,null,[null],0
+A Tale of Two Cities,Charles Dickens,9780141439600,false,null,[null],0
+The Scarlet Letter,Nathaniel Hawthorne,9780142437261,false,null,[null],0
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,9780140439073,false,null,[null],0
+The Hound of the Baskervilles,Arthur Conan Doyle,9780140437864,true,username,[null],14
+Frankenstein,Mary Shelley,9780141439471,false,null,[null],0
+Dracula,Bram Stoker,9780486411095,false,null,[null],0
+The War of the Worlds,H.G. Wells,9780486295558,false,null,[null],0
+The Catcher in the Rye,J.D. Salinger,9780316769174,true,null,[null],14
+To Kill a Mockingbird,Harper Lee,9780446310789,false,null,[null],0
+1984,George Orwell,9780451524935,false,null,[null],0
+The Great Gatsby,F. Scott Fitzgerald,9780743273565,true,null,[null],14
+One Hundred Years of Solitude,Gabriel Garcia Marquez,9780060883287,false,null,[null],0
+Pride and Prejudice,Jane Austen,9780486284736,true,null,[null],14
+The Hobbit,J.R.R. Tolkien,9780547928227,true,null,[null],14
+The Lord of the Rings,J.R.R. Tolkien,9780618640157,true,null,[null],14
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,9780345391803,false,null,[null],0
+Brave New World,Aldous Huxley,9780060850524,false,null,[null],0
+Animal Farm,George Orwell,9780451526342,false,null,[null],0
+Fahrenheit 451,Ray Bradbury,9781451673319,false,null,[null],0
+Lord of the Flies,William Golding,9780399501487,false,null,[null],0
+The Diary of a Young Girl,Anne Frank,9780553577129,true,null,[null],14
+The Brothers Karamazov,Fyodor Dostoevsky,9780374528379,false,null,[null],0
+Crime and Punishment,Fyodor Dostoevsky,9780140449136,false,null,[null],0
+Moby-Dick,Herman Melville,9780142437247,false,null,[null],0
+Don Quixote,Miguel de Cervantes,9780060934347,false,null,[null],0
+The Picture of Dorian Gray,Oscar Wilde,9780486278070,false,null,[null],0
+Jane Eyre,Charlotte Bronte,9780486478031,false,null,[null],0
+Great Expectations,Charles Dickens,9780141439563,false,null,[null],0
+Wuthering Heights,Emily Bronte,9780141439556,true,null,[null],14
+The Canterbury Tales,Geoffrey Chaucer,9780393925876,false,null,[null],0
+The Divine Comedy,Dante Alighieri,9780140447965,false,null,[null],0
+The Iliad,Homer,9780140447941,false,null,[null],0
+The Odyssey,Homer,9780140449112,false,null,[null],0
+The Aeneid,Virgil,9780143106296,false,null,[null],0
+The Inferno,Dante Alighieri,9780553213393,false,null,[null],0
+The Adventures of Huckleberry Finn,Mark Twain,9780143107323,false,null,[null],0
+The Adventures of Tom Sawyer,Mark Twain,9780141321132,false,null,[null],0
+Alice's Adventures in Wonderland,Lewis Carroll,9780141439761,false,null,[null],0
+Through the Looking-Glass,Lewis Carroll,9780141441283,false,null,[null],0
+Treasure Island,Robert Louis Stevenson,9780140437680,false,null,[null],0
+Robinson Crusoe,Daniel Defoe,9780140439356,false,null,[null],0
+Gulliver's Travels,Jonathan Swift,9780141439495,false,null,[null],0
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,9780486266886,false,null,[null],0
+Heart of Darkness,Joseph Conrad,9780486264646,false,null,[null],0
+A Tale of Two Cities,Charles Dickens,9780141439600,false,null,[null],0
+The Scarlet Letter,Nathaniel Hawthorne,9780142437261,false,null,[null],0
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,9780140439073,false,null,[null],0
+The Hound of the Baskervilles,Arthur Conan Doyle,9780140437864,true,null,[null],14
+Frankenstein,Mary Shelley,9780141439471,false,null,[null],0
+Dracula,Bram Stoker,9780486411095,false,null,[null],0
+The War of the Worlds,H.G. Wells,9780486295558,false,null,[null],0
